@@ -1,3 +1,5 @@
+// books.js,	Selina Daley,	300792374,	COMP308-w2017-MidTerm
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();
@@ -87,7 +89,7 @@ router.get('/:id', (req, res, next) => {
   }
   
     /*****************
-     * ADD CODE HERE *   // DONE - no user display name
+     * ADD CODE HERE *   // DONE - no user display name 
      *****************/
 });
 
