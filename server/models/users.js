@@ -1,3 +1,5 @@
+// users.js, Selina Daley, 300792374, COMP308-w2017-MidTerm
+
 // require modules for our user model
 let mongoose = require('mongoose');
 let Schema = mongoose.Schema; // alias for mongoose Schema

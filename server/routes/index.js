@@ -1,3 +1,5 @@
+// index.js, Selina Daley, 300792374, COMP308-w2017-MidTerm
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

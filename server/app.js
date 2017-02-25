@@ -1,3 +1,5 @@
+// app.js, Selina Daley, 300792374, COMP308-w2017-MidTerm
+
 // modules required for the project
 let express = require('express');
 let path = require('path'); // part of node.js core
